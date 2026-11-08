@@ -5,5 +5,7 @@
 .vscode/ipch
 .agents/
 .obsidian/
-,venv/
-
+venv/
+.venv/
+env/
+ENV/
